@@ -293,13 +293,6 @@ androidx-datastore-preferences = "..."
 - LazyColumn para renderização eficiente de listas
 - Flow reactivo para atualizações de UI
 
-## 🤝 Integrantes do Grupo
-
-- [Nome do Aluno 1]
-- [Nome do Aluno 2]
-
-## 📄 Licença
-
 Este projeto foi desenvolvido para fins educacionais.
 
 ## 📞 Suporte
@@ -308,5 +301,4 @@ Para dúvidas ou sugestões, entre em contato através do GitHub Issues.
 
 ---
 
-**Desenvolvido com ❤️ usando Kotlin, Jetpack Compose e Android Architecture Components**
 
